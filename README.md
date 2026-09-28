@@ -10,7 +10,7 @@
 
 ## Tujuan
 
-Mempelajari dan menerapkan penggunaan perulangan `for` dan `while` dalam Python untuk menyelesaikan masalah iteratif, melakukan validasi input, menghitung akumulasi data, serta mengelola hasil pekerjaan menggunakan Git dan GitHub. [1](https://untirtaacid-my.sharepoint.com/personal/2225250170_student_untirta_ac_id/Documents/File%20Microsoft%20Copilot%20Chat/Materi_Pertemuan_05_Perulangan_Python_VSCode_GitHub.pdf)
+Mempelajari dan menerapkan penggunaan perulangan `for` dan `while` dalam Python untuk menyelesaikan masalah iteratif, melakukan validasi input, menghitung akumulasi data, serta mengelola hasil pekerjaan menggunakan Git dan GitHub. [1]
 
 ---
 
